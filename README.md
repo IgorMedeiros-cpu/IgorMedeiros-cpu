@@ -22,8 +22,8 @@ Tenho foco em resolução de problemas, atendimento ao usuário e constante apri
 ### 📊 Estatísticas
 
 <div align="center">
-  <img width="55" height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMedeiros-cpu&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img width="80" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMedeiros-cpu&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Utilizadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMedeiros-cpu&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMedeiros-cpu&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ---
